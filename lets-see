@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="https://www.w3.org/1999.xhtml" xmls:v="urn:schemes-microsoft-com:office:office">
+
+
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="x-ua-compatible" content="IE-edee">
+ <meta name="viewpoint" content="width-device-width
+initial scale=1 user-scaleable=yes">
+ <meta name="format-detection" content="telephone=no, date=no, address=no, email=no, url=no">
+ <meta name="x-apple-disable-message-reformatting">
+ <meta name="color-scheme" content="light dark">
+  
+<title>Haunting</title>
+<!--[If mso]><noscript><xml><o:OfficeDocumentSettings>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings></xml></noscript><![end If]-->
+
+<style>
+  :root{ color-scheme:light dark; supported-color-schemes:light dark;}
+</style>
+<--optional css to render on phones, only if code doesn't originally work.
+<style>
+@media only screen and (max-width:600px){
+ .column,
+ .gutter{
+}
+  .column{
+   width:450px !important;
+}
+  .column img {
+   width:450px;
+}
+}
+</style>-->
+
+</head>
+</body>
+
+<body>
+<table cellpadding="0", cellspacing="0" border="0", style="width:100%; background:#ffffff; border-collapse:collapse; border-spacing:0; border:0; role="presentation">
+ <tr>
+  <td style="padding:0; text-align:center; 
+style="border:1px solid #eeeeee; width:600px; border-collapse:collapse; border-spacing:0; text-align:left;" role="presentation">
+ <tr>
+  <td>
+*/All content will be here*/
+  </td>
+ </tr>
+</table>
+</body>
+
+<!--Header Module-->
+<table class="header-module" role="presentation" style="width:100%; border:0; border-collapse:collapse; border-spacing:0;">
+ <tr>
+
+<!--Divider-->
+<td class="divider" style="font-size:4px; background:#203647"></td>
+
+<!--Logo-->
+<td class="logo" style="padding:20px 0px 0 0px; text-align:center;".
+ <img src="C:\Users\vonma\Downloads\Phone Link\velvetlace.png"/>
+</td>
+</tr>
+</table>
+
+<!--Welcome Module-->
+<table class="welcome-module" role="presentation" style="width:600px; border:0; border-collapse:collapse; border-spacing:0;">
+ <tr>
+
+<!--Welcome Text-->
+  <td class="welcome-text"style="padding:0px 30px 0 30px;">
+   <h1 style="font-size:24px; padding:0; font-family: Arial, sans-serif; color:#12232E; font-weight:normal;">Welcome to the email Sample</h1>
+  </td>
+ </tr>
+<tr>
+<!--Hero Image-->
+<td class="hero-image">
+    <img src="whateveryougotb.net">
+
+<!--Upcoming Promotion Module-->
+<table class="upcoming-promotion-module" role="presentation" style="width:600px; border:0; border-collapse:collapse;; border-spacing:0;">
+ <tr>
+<!--Upcoming Promotion Text-->
+  <td class="upcoming-promotion-text" style="padding: 0 30px 0 30px; color:#12232E">
+   <h2 style="font-size:20px; padding:0; font-family:Arial, sans-serif; color:#12232E; font-weight:normal;">This is information about an upcoming promotion</h2>
+  </td>
+ </tr>
+<tr>
+<!--Upcoming Promotion Button-->
+<td class="upcoming-promotional-button" style="padding: 0px 30px 30px 30px;">
+ <a role="button" href="" style="color:#4DA8DA; class="button">link</a>
+ </td>
+</tr>
+</table>
+
+<!--Two Column Module-->
+<table class="two-column-module" role="presentation" style="width:100%; border:0; border-collapse:collapse; border-spacing:0;">
+ <tr>
+<!--Left Column-->
+  <td class="left-column column" style="width:250px; color:#12232E; padding-left:30px;">
+   <img src=" "/>
+    <a class="columnHeading" href=" " style=""color;#4DA8DA; text-decoration:none; Font-size:16px; font-family: Arial, sans-serif;">
+     <h3>Heading</h3>
+    </a>
+    <p style="font-family: Arial, sans-serif;">Context of email will be here, Hiya!</p>
+</td>
+
+<!--Gutter-->
+<td class="gutter" style="width:20px; padding:0; font-size:0; line-height:0;">
+
+<!--Right Column-->
+<td class="right-column column" style=”width:250px; color:#12232E; padding-right:30px;”>
+ <img src=” “/>
+  <a class=”columnHeading” href=” “ style=”color:#4DA8DA; front-size:16px;font-family:Arial, sans-serif;”>
+   <h3>Heading</h3>
+  </a>
+ <p style=”font-ffamily:Arial, sans-serif;”>The Right....column</p>
+ </td>
+</tr>
+</table>
+
+<!--Footer Module-->
+<table class=”footer-module” role=”presentation” style=”background-color:#203647; text-align:center;”>
+ <td class=”footer-links” style=”padding;20px 0 20px 0; color:#EEFBFB; font-size:12px;”>
+  <a style=”color:#4DA8DA; text-decoration:none;” href=” “>Terms of Service</a>|
+  <a style=”color:#4DA8DA; text-decoration:none;” href=” “>Privacy Policy</a>|
+  <a style=”color:#4DA8DA; text-decoration:none;” href=” “>Unsubscribe</a>
+ </td>
+</tr>
+</table>
