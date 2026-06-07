@@ -19,7 +19,7 @@ initial scale=1 user-scaleable=yes">
 <style>
   :root{ color-scheme:light dark; supported-color-schemes:light dark;}
 </style>
-<--optional css to render on phones, only if code doesn't originally work.
+<!--optional css to render on phones, only if code doesn't originally work.
 <style>
 @media only screen and (max-width:600px){
  .column,
@@ -32,7 +32,7 @@ initial scale=1 user-scaleable=yes">
    width:450px;
 }
 }
-</style>-->
+</style>
 
 </head>
 </body>
